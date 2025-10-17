@@ -10,18 +10,18 @@ Repositori ini berisi hasil tugas pemrosesan audio dari mata kuliah IF4021 Multi
 
 ## Struktur Repository
 
-Hands-on-Pemrosesan-Audio/
+Hands-on-Pemrosesan-Audio
 - audio_exercise.ipynb  
 - audio_exercise.pdf    
 - README.md             
 
-audio_input/  
+audio_input
 - suara_asli.wav  
 - suara_bising.wav  
 - lagu_sedih.wav  
 - lagu_ceria.wav  
 
-audio_output/  
+audio_output  
 - suara_resample.wav  
 - suara_filtered.wav  
 - pitch_shifted.wav  
